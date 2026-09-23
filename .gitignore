@@ -1,0 +1,22 @@
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Impeccable working files (screenshots, decision-page payloads, local caches).
+# Kept: .impeccable/config.json, .impeccable/design.json, .impeccable/surfaces/
+.impeccable/review/
+.impeccable/questions/
+.impeccable/mocks/
+.impeccable/build/
+.impeccable/live/
+.impeccable/hook.cache.json
+.impeccable/*.local.json
+.impeccable/direction-payload.json
+.impeccable/brief-body.md
+
+# Never commit source documents or credentials
+*.pdf
+.env
+.env.*

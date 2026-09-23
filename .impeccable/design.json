@@ -1,0 +1,439 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-23T21:18:09+00:00",
+  "title": "Design System: Jack Barry",
+  "extensions": {
+    "colorMeta": {
+      "paper": {
+        "role": "neutral",
+        "displayName": "Form Stock",
+        "canonical": "oklch(96.6% 0.004 106)",
+        "tonalRamp": [
+          "oklch(15% 0.004 106)",
+          "oklch(26% 0.004 106)",
+          "oklch(38% 0.004 106)",
+          "oklch(49% 0.004 106)",
+          "oklch(61% 0.004 106)",
+          "oklch(72% 0.004 106)",
+          "oklch(84% 0.004 106)",
+          "oklch(95% 0.004 106)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Typed Ink",
+        "canonical": "oklch(19.1% 0 90)",
+        "tonalRamp": [
+          "oklch(15% 0.000 90)",
+          "oklch(26% 0.000 90)",
+          "oklch(38% 0.000 90)",
+          "oklch(49% 0.000 90)",
+          "oklch(61% 0.000 90)",
+          "oklch(72% 0.000 90)",
+          "oklch(84% 0.000 90)",
+          "oklch(95% 0.000 90)"
+        ]
+      },
+      "ink-2": {
+        "role": "neutral",
+        "displayName": "Faded Ink",
+        "canonical": "oklch(40.8% 0.007 107)",
+        "tonalRamp": [
+          "oklch(15% 0.007 107)",
+          "oklch(26% 0.007 107)",
+          "oklch(38% 0.007 107)",
+          "oklch(49% 0.007 107)",
+          "oklch(61% 0.007 107)",
+          "oklch(72% 0.007 107)",
+          "oklch(84% 0.007 107)",
+          "oklch(95% 0.007 107)"
+        ]
+      },
+      "rule": {
+        "role": "neutral",
+        "displayName": "Ruled Line",
+        "canonical": "oklch(79.6% 0.010 107)",
+        "tonalRamp": [
+          "oklch(15% 0.010 107)",
+          "oklch(26% 0.010 107)",
+          "oklch(38% 0.010 107)",
+          "oklch(49% 0.010 107)",
+          "oklch(61% 0.010 107)",
+          "oklch(72% 0.010 107)",
+          "oklch(84% 0.010 107)",
+          "oklch(95% 0.010 107)"
+        ]
+      },
+      "rule-soft": {
+        "role": "neutral",
+        "displayName": "Faint Rule",
+        "canonical": "oklch(89.3% 0.008 107)",
+        "tonalRamp": [
+          "oklch(15% 0.008 107)",
+          "oklch(26% 0.008 107)",
+          "oklch(38% 0.008 107)",
+          "oklch(49% 0.008 107)",
+          "oklch(61% 0.008 107)",
+          "oklch(72% 0.008 107)",
+          "oklch(84% 0.008 107)",
+          "oklch(95% 0.008 107)"
+        ]
+      },
+      "blue": {
+        "role": "primary",
+        "displayName": "Ballpoint Blue",
+        "canonical": "oklch(41.6% 0.173 265)",
+        "tonalRamp": [
+          "oklch(15% 0.160 265)",
+          "oklch(26% 0.173 265)",
+          "oklch(38% 0.173 265)",
+          "oklch(49% 0.173 265)",
+          "oklch(61% 0.173 265)",
+          "oklch(72% 0.173 265)",
+          "oklch(84% 0.160 265)",
+          "oklch(95% 0.160 265)"
+        ]
+      },
+      "red": {
+        "role": "secondary",
+        "displayName": "Priority Red",
+        "canonical": "oklch(53.2% 0.194 29)",
+        "tonalRamp": [
+          "oklch(15% 0.160 29)",
+          "oklch(26% 0.194 29)",
+          "oklch(38% 0.194 29)",
+          "oklch(49% 0.194 29)",
+          "oklch(61% 0.194 29)",
+          "oklch(72% 0.194 29)",
+          "oklch(84% 0.160 29)",
+          "oklch(95% 0.160 29)"
+        ]
+      },
+      "carbon-paper": {
+        "role": "neutral",
+        "displayName": "Carbon Stock",
+        "canonical": "oklch(19.4% 0.003 145)",
+        "tonalRamp": [
+          "oklch(15% 0.003 145)",
+          "oklch(26% 0.003 145)",
+          "oklch(38% 0.003 145)",
+          "oklch(49% 0.003 145)",
+          "oklch(61% 0.003 145)",
+          "oklch(72% 0.003 145)",
+          "oklch(84% 0.003 145)",
+          "oklch(95% 0.003 145)"
+        ]
+      },
+      "carbon-ink": {
+        "role": "neutral",
+        "displayName": "Carbon Ink",
+        "canonical": "oklch(93.3% 0.007 107)",
+        "tonalRamp": [
+          "oklch(15% 0.007 107)",
+          "oklch(26% 0.007 107)",
+          "oklch(38% 0.007 107)",
+          "oklch(49% 0.007 107)",
+          "oklch(61% 0.007 107)",
+          "oklch(72% 0.007 107)",
+          "oklch(84% 0.007 107)",
+          "oklch(95% 0.007 107)"
+        ]
+      },
+      "carbon-ink-2": {
+        "role": "neutral",
+        "displayName": "Carbon Faded Ink",
+        "canonical": "oklch(71.7% 0.010 107)",
+        "tonalRamp": [
+          "oklch(15% 0.010 107)",
+          "oklch(26% 0.010 107)",
+          "oklch(38% 0.010 107)",
+          "oklch(49% 0.010 107)",
+          "oklch(61% 0.010 107)",
+          "oklch(72% 0.010 107)",
+          "oklch(84% 0.010 107)",
+          "oklch(95% 0.010 107)"
+        ]
+      },
+      "carbon-rule": {
+        "role": "neutral",
+        "displayName": "Carbon Rule",
+        "canonical": "oklch(39.9% 0.008 116)",
+        "tonalRamp": [
+          "oklch(15% 0.008 116)",
+          "oklch(26% 0.008 116)",
+          "oklch(38% 0.008 116)",
+          "oklch(49% 0.008 116)",
+          "oklch(61% 0.008 116)",
+          "oklch(72% 0.008 116)",
+          "oklch(84% 0.008 116)",
+          "oklch(95% 0.008 116)"
+        ]
+      },
+      "carbon-rule-soft": {
+        "role": "neutral",
+        "displayName": "Carbon Faint Rule",
+        "canonical": "oklch(28.7% 0.006 122)",
+        "tonalRamp": [
+          "oklch(15% 0.006 122)",
+          "oklch(26% 0.006 122)",
+          "oklch(38% 0.006 122)",
+          "oklch(49% 0.006 122)",
+          "oklch(61% 0.006 122)",
+          "oklch(72% 0.006 122)",
+          "oklch(84% 0.006 122)",
+          "oklch(95% 0.006 122)"
+        ]
+      },
+      "carbon-blue": {
+        "role": "primary",
+        "displayName": "Carbon Ballpoint Blue",
+        "canonical": "oklch(74.5% 0.113 272)",
+        "tonalRamp": [
+          "oklch(15% 0.113 272)",
+          "oklch(26% 0.113 272)",
+          "oklch(38% 0.113 272)",
+          "oklch(49% 0.113 272)",
+          "oklch(61% 0.113 272)",
+          "oklch(72% 0.113 272)",
+          "oklch(84% 0.113 272)",
+          "oklch(95% 0.113 272)"
+        ]
+      },
+      "carbon-red": {
+        "role": "secondary",
+        "displayName": "Carbon Priority Red",
+        "canonical": "oklch(68.3% 0.170 27)",
+        "tonalRamp": [
+          "oklch(15% 0.160 27)",
+          "oklch(26% 0.170 27)",
+          "oklch(38% 0.170 27)",
+          "oklch(49% 0.170 27)",
+          "oklch(61% 0.170 27)",
+          "oklch(72% 0.170 27)",
+          "oklch(84% 0.160 27)",
+          "oklch(95% 0.160 27)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "The name only, once per page; a form heading, not a hero."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Part names in the label column."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Record titles (role, degree, project)."
+      },
+      "lead": {
+        "displayName": "Lead",
+        "purpose": "Opening statement of a spread; same voice closes the page."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Reading text; notes held to 70ch."
+      },
+      "field-value": {
+        "displayName": "Field value",
+        "purpose": "Worded values in fields and meta grids."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Uppercase field and meta labels (dt)."
+      },
+      "data": {
+        "displayName": "Data",
+        "purpose": "Refs, periods, counts, form title line, footer, priority codes."
+      },
+      "data-figure": {
+        "displayName": "Data figure",
+        "purpose": "Headline figures in the field grid."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "rule-draw",
+        "value": "transform scaleX(0 to 1), origin left, 0.9s cubic-bezier(0.16, 1, 0.3, 1), once; second rule delayed 0.12s",
+        "purpose": "Form rules draw in on load."
+      },
+      {
+        "name": "invert",
+        "value": "background-color, color 0.12s",
+        "purpose": "Row and field hover inversion; copy button fill."
+      },
+      {
+        "name": "link-thicken",
+        "value": "text-decoration-thickness 1px to 2px, 0.15s",
+        "purpose": "Link hover."
+      },
+      {
+        "name": "nav-state",
+        "value": "color, border-color 0.15s",
+        "purpose": "Nav hover and active underline."
+      },
+      {
+        "name": "live-stamp",
+        "value": "1s interval, Intl en-GB, Europe/London, 24h, with zone",
+        "purpose": "The Viewed timestamp; the only continuous motion."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "animation and transition none; scroll-behavior auto",
+        "purpose": "prefers-reduced-motion: reduce."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide",
+        "value": "901px"
+      },
+      {
+        "name": "stack",
+        "value": "900px"
+      },
+      {
+        "name": "narrow",
+        "value": "560px"
+      },
+      {
+        "name": "print",
+        "value": "print"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Copy Button",
+      "kind": "button",
+      "refersTo": "button-copy",
+      "description": "The only button: small uppercase key that copies the email address.",
+      "html": "<button type=\"button\" class=\"ds-btn-copy\">Copy</button>",
+      "css": ":host{--paper:#F4F4F1;--ink:#141414;--ink-2:#4A4A46;--rule:#BDBDB6;--rule-soft:#DCDCD6;--blue:#1D3FA8;--red:#C4261D} .ds-btn-copy{font:600 .75rem/1 'Schibsted Grotesk',system-ui,sans-serif;letter-spacing:.04em;text-transform:uppercase;color:var(--ink);background:transparent;border:1px solid currentColor;border-radius:2px;padding:6px 9px;cursor:pointer;transition:background-color .12s,color .12s} .ds-btn-copy:hover{background:var(--blue);border-color:var(--blue);color:var(--paper)} .ds-btn-copy:focus-visible{outline:2px solid var(--blue);outline-offset:3px}"
+    },
+    {
+      "name": "Action Link",
+      "kind": "custom",
+      "refersTo": "link-action",
+      "description": "Blue underlined link with the 10px external arrow.",
+      "html": "<a class=\"ds-link\" href=\"#\">LinkedIn<svg viewBox=\"0 0 10 10\" aria-hidden=\"true\"><path d=\"M2 8 8 2M3.5 2H8v4.5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\"/></svg></a>",
+      "css": ":host{--paper:#F4F4F1;--ink:#141414;--ink-2:#4A4A46;--rule:#BDBDB6;--rule-soft:#DCDCD6;--blue:#1D3FA8;--red:#C4261D} .ds-link{display:inline-flex;align-items:center;gap:6px;font:500 1rem 'Schibsted Grotesk',system-ui,sans-serif;color:var(--blue);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.22em;transition:text-decoration-thickness .15s} .ds-link:hover{text-decoration-thickness:2px} .ds-link:focus-visible{outline:2px solid var(--blue);outline-offset:3px} .ds-link svg{width:10px;height:10px;flex:none}"
+    },
+    {
+      "name": "Section Nav",
+      "kind": "nav",
+      "refersTo": "nav-link",
+      "description": "Plain grotesk nav; the section in view gets ink type and a 2px ink underline.",
+      "html": "<nav class=\"ds-nav\"><a href=\"#\" aria-current=\"true\">Summary</a><a href=\"#\">Work notes</a><a href=\"#\">Capabilities</a></nav>",
+      "css": ":host{--paper:#F4F4F1;--ink:#141414;--ink-2:#4A4A46;--rule:#BDBDB6;--rule-soft:#DCDCD6;--blue:#1D3FA8;--red:#C4261D} .ds-nav{display:flex;gap:24px;border-bottom:1px solid var(--rule);background:var(--paper)} .ds-nav a{font:500 .875rem 'Schibsted Grotesk',system-ui,sans-serif;color:var(--ink-2);text-decoration:none;padding:15px 0 13px;border-bottom:2px solid transparent;margin-bottom:-1px;transition:color .15s,border-color .15s} .ds-nav a:hover{color:var(--ink)} .ds-nav a[aria-current]{color:var(--ink);border-bottom-color:var(--ink)} .ds-nav a:focus-visible{outline:2px solid var(--blue);outline-offset:3px}"
+    },
+    {
+      "name": "Ruled Field Grid",
+      "kind": "custom",
+      "refersTo": "field",
+      "description": "Signature: label over value in ruled cells, opened by a 2px ink rule; cells invert on hover.",
+      "html": "<dl class=\"ds-fields\"><div class=\"ds-field\"><dt>State</dt><dd><b class=\"ds-stamp\">Open</b> to NOC &amp; SOC roles</dd></div><div class=\"ds-field\"><dt>Location</dt><dd>Manchester, UK</dd></div><div class=\"ds-field\"><dt>Daily volume</dt><dd class=\"ds-data\">30–40 incidents</dd></div><div class=\"ds-field\"><dt>First-contact resolution</dt><dd class=\"ds-data\">60–70%</dd></div></dl>",
+      "css": ":host{--paper:#F4F4F1;--ink:#141414;--ink-2:#4A4A46;--rule:#BDBDB6;--rule-soft:#DCDCD6;--blue:#1D3FA8;--red:#C4261D} .ds-fields{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));margin:0;border-top:2px solid var(--ink);border-bottom:1px solid var(--rule);background:var(--paper);color:var(--ink)} .ds-field{padding:18px 16px;display:grid;gap:8px;align-content:start;border-right:1px solid var(--rule);transition:background-color .12s,color .12s} .ds-field:last-child{border-right:0} .ds-field dt{font:600 .72rem 'Schibsted Grotesk',system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-2)} .ds-field dd{margin:0;font:500 1.05rem/1.3 'Schibsted Grotesk',system-ui,sans-serif} .ds-field dd.ds-data{font:400 1.2rem/1.2 'Martian Mono',ui-monospace,monospace;font-stretch:87.5%;font-variant-numeric:tabular-nums} .ds-field:hover{background:var(--ink);color:var(--paper)} .ds-field:hover dt{color:var(--paper)} .ds-stamp{background:var(--ink);color:var(--paper);padding:1px 5px 2px;font-weight:700} .ds-field:hover .ds-stamp{background:var(--paper);color:var(--ink)}"
+    },
+    {
+      "name": "Record Meta Grid",
+      "kind": "custom",
+      "refersTo": "field",
+      "description": "Fixed-track meta row shared by every record: Ref, Period, Organisation, Location, State.",
+      "html": "<dl class=\"ds-meta\"><div><dt>Ref</dt><dd class=\"ds-data\">R-03</dd></div><div><dt>Period</dt><dd class=\"ds-data\">Dec 2025 – present</dd></div><div><dt>Organisation</dt><dd>EXL</dd></div><div><dt>Location</dt><dd>Manchester</dd></div><div><dt>State</dt><dd class=\"ds-open\">In progress</dd></div></dl>",
+      "css": ":host{--paper:#F4F4F1;--ink:#141414;--ink-2:#4A4A46;--rule:#BDBDB6;--rule-soft:#DCDCD6;--blue:#1D3FA8;--red:#C4261D} .ds-meta{display:grid;grid-template-columns:4rem 10.5rem 18rem 7.5rem auto;justify-content:start;column-gap:28px;row-gap:12px;margin:0;padding-block:12px;border-block:1px solid var(--rule);color:var(--ink);background:var(--paper)} .ds-meta div{display:grid;gap:3px} .ds-meta dt{font:600 .72rem 'Schibsted Grotesk',system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-2)} .ds-meta dd{margin:0;font:500 .925rem 'Schibsted Grotesk',system-ui,sans-serif} .ds-meta dd.ds-data{font:400 .8125rem 'Martian Mono',ui-monospace,monospace;font-stretch:87.5%;font-variant-numeric:tabular-nums;padding-top:.15em} .ds-open{font-weight:700!important;background:var(--ink);color:var(--paper);padding:1px 5px 2px;justify-self:start}"
+    },
+    {
+      "name": "State Stamp",
+      "kind": "chip",
+      "refersTo": "stamp",
+      "description": "Square ink block for open or in-progress state; never a pill.",
+      "html": "<b class=\"ds-stamp\">Open</b>",
+      "css": ":host{--paper:#F4F4F1;--ink:#141414;--ink-2:#4A4A46;--rule:#BDBDB6;--rule-soft:#DCDCD6;--blue:#1D3FA8;--red:#C4261D} .ds-stamp{font:700 1.05rem 'Schibsted Grotesk',system-ui,sans-serif;background:var(--ink);color:var(--paper);padding:1px 5px 2px;border-radius:0}"
+    },
+    {
+      "name": "Work Note with Priority Codes",
+      "kind": "custom",
+      "refersTo": "priority-code",
+      "description": "Serif note line with red mono priority codes, the only use of red.",
+      "html": "<ul class=\"ds-notes\"><li>Action <span class=\"ds-prio\">P3</span>s on receipt and escalate <span class=\"ds-prio\">P1</span>/<span class=\"ds-prio\">P2</span> incidents immediately.</li><li>Resolve <b>60–70%</b> of incidents at first point of contact.</li></ul>",
+      "css": ":host{--paper:#F4F4F1;--ink:#141414;--ink-2:#4A4A46;--rule:#BDBDB6;--rule-soft:#DCDCD6;--blue:#1D3FA8;--red:#C4261D} .ds-notes{list-style:none;padding:0;margin:0;max-width:70ch;font:400 17px/1.6 'Source Serif 4',Georgia,serif;color:var(--ink);background:var(--paper)} .ds-notes li{padding-block:12px;border-top:1px solid var(--rule-soft)} .ds-notes li:first-child{border-top:0;padding-top:4px} .ds-notes b{font-weight:600} .ds-prio{font-family:'Martian Mono',ui-monospace,monospace;font-size:.8em;font-weight:500;font-stretch:87.5%;color:var(--red)}"
+    },
+    {
+      "name": "Capabilities Row",
+      "kind": "custom",
+      "refersTo": "field-hover",
+      "description": "Ruled table row with grotesk heading cell; the whole row inverts on hover.",
+      "html": "<table class=\"ds-caps\"><tbody><tr><th scope=\"row\">IT service management</th><td>ServiceNow, BMC Remedy, ITIL-aligned incident management</td></tr><tr><th scope=\"row\">Certifications</th><td>ITIL 4 Foundation <em>In progress</em></td></tr></tbody></table>",
+      "css": ":host{--paper:#F4F4F1;--ink:#141414;--ink-2:#4A4A46;--rule:#BDBDB6;--rule-soft:#DCDCD6;--blue:#1D3FA8;--red:#C4261D} .ds-caps{width:100%;border-collapse:collapse;font:400 17px/1.6 'Source Serif 4',Georgia,serif;background:var(--paper)} .ds-caps th,.ds-caps td{text-align:left;vertical-align:baseline;padding:14px 16px 14px 0;border-top:1px solid var(--rule)} .ds-caps tr:first-child>*{border-top:0} .ds-caps th{font:600 .95rem/1.4 'Schibsted Grotesk',system-ui,sans-serif;width:15rem;padding-right:24px;color:var(--ink)} .ds-caps td{color:var(--ink-2)} .ds-caps tr{transition:background-color .12s} .ds-caps tr:hover{background:var(--ink)} .ds-caps tr:hover th,.ds-caps tr:hover td{color:var(--paper)} .ds-caps tr:hover>:first-child{padding-left:12px} .ds-caps em{font:normal 700 .72rem 'Schibsted Grotesk',system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;margin-left:8px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Incident Record",
+    "overview": "The whole site is one filed record: a reference number and a live \"Viewed\" stamp on the form title line, a ruled field grid under the name, then parts ruled off by a black line, each with its label column on the left and the record body on the right. Nothing is a card and nothing floats. Structure comes from 1px rules on grey-white form stock, and emphasis comes from weight and one-bit inversion (ink ground, paper type), never from tint, radius or shadow.\n\nThree voices share the page, each with one job: a firm grotesk for labels, headings and field values; a serif for reading; a narrow mono only for data such as refs, dates, figures and priority codes. Colour follows one law: black ink does everything, ballpoint blue marks what can be acted on, and red appears only on a priority code. Dark mode is a carbon copy of the same form, not a new palette.\n\nDensity varies on purpose. The header grid is tight and tabular, the summary is a quiet spread of large serif, the work notes are dense ruled lists, and the capabilities part is a ruled table. Motion is kept to evidence: the rules draw in once on load, rows invert under the pointer, and the only thing that keeps moving is the UK clock on the Viewed stamp.",
+    "keyCharacteristics": [
+      "Ruled form stock: 1px rules for fields, a 2px ink rule to open a form block, a 1px ink rule to open a part.",
+      "A 13rem label column is the dominant axis on wide screens.",
+      "State is shown by weight and inversion, never by pills, tints or badges.",
+      "Blue means action, red means priority code; nothing else takes colour.",
+      "Square corners everywhere except the 2px control.",
+      "One continuous motion: the live Viewed timestamp."
+    ],
+    "rules": [
+      {
+        "name": "The One Law Rule",
+        "body": "Blue is only for actions (links, button hover, focus, selection). Red is only for priority codes. If an element is neither, it is ink, faded ink or rule.",
+        "section": "colors"
+      },
+      {
+        "name": "The Carbon Copy Rule",
+        "body": "Dark mode inverts the stock and lightens the two pens; it adds no new hues, tints or surfaces.",
+        "section": "colors"
+      },
+      {
+        "name": "The Three Voices Rule",
+        "body": "Grotesk labels and names things, serif is read, mono is data. Mono never sets a sentence of prose and serif never sets a label.",
+        "section": "typography"
+      },
+      {
+        "name": "The Filed Name Rule",
+        "body": "The name is the largest type on the page and stays near 3.5rem; no display size exceeds it.",
+        "section": "typography"
+      },
+      {
+        "name": "The Label Axis Rule",
+        "body": "Every part hangs from the same 13rem label column; nothing breaks the axis on wide screens.",
+        "section": "layout"
+      },
+      {
+        "name": "The One Grid Rule",
+        "body": "Every record uses the same meta tracks and the same label set order, whatever it records.",
+        "section": "layout"
+      },
+      {
+        "name": "The Ruled Not Raised Rule",
+        "body": "Hierarchy is drawn with rules and inversion, never lifted with shadow or tone.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** draw structure with 1px Ruled Line borders and open a block with a 2px ink rule (a part with a 1px ink rule).",
+      "**Do** show state by weight and inversion: an ink stamp for open states, plain text for closed.",
+      "**Do** put every record's facts in the fixed meta grid (Ref, Period, Organisation, Location, State) before its notes.",
+      "**Do** set refs, dates, counts, figures and priority codes in Martian Mono at 87.5% width with tabular numerals.",
+      "**Do** invert whole rows on hover (ink ground, paper type) as the one hover grammar for data regions.",
+      "**Do** keep every colour change inside the carbon-copy token swap for dark mode."
+    ],
+    "donts": [
+      "**Don't** use blue for anything that is not an action, or red for anything that is not a priority code.",
+      "**Don't** use pills, rounded badges, tinted chips or coloured state dots; state is a square stamp or plain text.",
+      "**Don't** add shadows, gradients, glows or card containers; the record is ruled, not raised.",
+      "**Don't** set the name or any heading larger than the ~3.6rem display cap, or build a name hero or stats strip.",
+      "**Don't** add continuous or looping motion beyond the live Viewed stamp.",
+      "**Don't** use green-on-black terminals, fake command prompts, Matrix code or hood and skull imagery."
+    ]
+  }
+}
